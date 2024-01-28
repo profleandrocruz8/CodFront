@@ -1,0 +1,47 @@
+body {
+    font-family: 'Horta', cursive;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px; /* Aumentando o tamanho da fonte */
+    color: #007bff; /* Alterando a cor para azul */
+}
+
+header p {
+    margin: 5px 0;
+    font-size: 24px; /* Aumentando o tamanho da fonte */
+}
+
+section {
+    padding: 20px;
+}
+
+.job {
+    margin-bottom: 20px;
+}
+
+.job h3 {
+    margin-top: 0;
+    font-size: 24px; /* Aumentando o tamanho da fonte */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
